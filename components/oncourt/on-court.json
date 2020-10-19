@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_oncourt_on_courts",
+  "info": {
+    "name": "ON COURT",
+    "icon": "basketball-ball"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "string"
+    }
+  }
+}

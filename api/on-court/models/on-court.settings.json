@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "on_courts",
+  "info": {
+    "name": "ON COURT",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "datetime": {
+      "type": "datetime"
+    },
+    "data": {
+      "type": "dynamiczone",
+      "components": [
+        "oncourt.on-court",
+        "social.social",
+        "swag-shop.swag-shop"
+      ]
+    }
+  }
+}

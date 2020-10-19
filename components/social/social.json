@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_social_socials",
+  "info": {
+    "name": "SOCIAL",
+    "icon": "user-friends"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
